@@ -1,0 +1,151 @@
+body {
+  background-color: #fffafa;
+  margin-right: 0px ;
+  margin-left: 0px ;
+  margin-top: 0px ;
+}
+
+p {
+  color: #000000 ;
+  text-align: center ;
+  font-family: athelas ;
+  padding-left: 10px ;
+  padding-right: 10px ;
+
+}
+
+.bio-sidebar {
+  display: inline-block ;
+  float: left;
+  text-align: center ;
+  background-color: #fff7f7;
+  margin-top: 35px ;
+  margin-left: 45px ;
+  height: 530px ;
+  width: 200px ;
+  padding-left: 15px ;
+  padding-right: 15px ;
+  border-left: 5px ;
+  border-top: none ;
+  border-right: none ;
+  border-bottom: none ;
+  border-style: solid ;
+  border-right-color: #fff7f7 ;
+  border-top-color: #fff7f7 ;
+  border-bottom-color: #fff7f7 ;
+  border-left-color: #ffe3e3 ;
+
+}
+
+.bio-text-title {
+  text-align: center;
+}
+
+.bio-text-body {
+  text-align: left ;
+}
+
+.social-media-links {
+  list-style: none;
+}
+
+.box-1 {
+  background-color: #fff7f7;
+  float: right;
+  margin-bottom: 50px ;
+  width: 1050px ;
+  height: 580px ;
+  margin-top: 35px ;
+  margin-right:40px ;
+  text-align: center ;
+  display: inline-block ;
+  border: 1.5px ;
+  border-style: dashed;
+  border-color: #ffcccc ;
+
+}
+
+.box-2 {
+  background-color: #fff7f7;
+  float: right;
+  margin-bottom: 50px ;
+  width: 1050px ;
+  height: 670px ;
+  margin-right: 40px ;
+  text-align: center ;
+  display: inline-block ;
+  border: 1.5px ;
+  border-style: dashed;
+  border-color: #ffcccc ;
+}
+
+.box-3 {
+  background-color: #fff7f7 ;
+  float: right;
+  margin-bottom: 50px ;
+  width: 1050px ;
+  height: 615px ;
+  margin-right: 40px;
+  text-align: center;
+  display: inline-block ;
+  border: 1.5px ;
+  border-style: dashed;
+  border-color: #ffcccc ;
+}
+
+
+.box-4 {
+  background-color: #ffe6e6 ;
+  color: #ffffff ;
+}
+
+.profile-picture {
+  margin-left: 82% ;
+  margin-top: 50px;
+}
+
+#banner {
+  text-align: center ;
+  display: inline ;
+}
+
+.navigation-bar {
+  background-color: #fff7f7;
+  margin-left: 45px ;
+  margin-right: 40px ;
+  margin-top: 1px ;
+  margin-bottom: 2px ;
+  height:40px ;
+  border-color: #000000 ;
+  border: .5px ;
+  text-align: center;
+  padding-top: 15px ;
+  border-top-style: dotted;
+  border-bottom-style: dotted;
+ }
+
+
+li {
+  color: #000000 ;
+  display: inline ;
+  text-align: center;
+
+}
+
+a {
+  color: #000000 ;
+  text-decoration: none ;
+
+}
+
+a:hover {
+  background-color: #ffd9d9;
+}
+
+h2 {
+  text-decoration: none;
+}
+
+#contact {
+  text-color: #000000 ;
+}
