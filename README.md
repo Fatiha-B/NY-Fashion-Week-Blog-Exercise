@@ -7,3 +7,5 @@ Code Style: Standard
 Languages used: HTML, CSS
 
 Author: Fatiha Bakary
+
+Link to Project: file:///Users/fatiha/Desktop/NYFW%20Website/index.html
